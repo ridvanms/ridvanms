@@ -1,4 +1,7 @@
 ### HELLO 👋
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me ✉ridvans@abv.bg
+
 
 <!-- - 👋 Hi, I’m @ridvanms
 - 👀 I’m interested in ...
