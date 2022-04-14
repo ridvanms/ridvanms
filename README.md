@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me [✉ridvans](https://www.abv.bg/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridvanms&theme=Designspiration)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridvanms&theme=Khroma)
 <!-- - 👋 Hi, I’m @ridvanms
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
