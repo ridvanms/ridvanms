@@ -1,5 +1,5 @@
 ### HELLO 👋
-- 🌱 I’m currently learning JavaScript and fw(Angular)
+- 🌱 I’m currently on: The Complete Web Developer in 2023: Zero to Mastery (course)
 - 📫 How to reach me [✉ridvans](https://www.abv.bg/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridvanms&theme=Khroma)
