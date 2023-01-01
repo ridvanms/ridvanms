@@ -1,7 +1,7 @@
 <h3 align="center">A passionate Web-Developer</h3>
 
-<p align="left"> <img src="https://miro.medium.com/max/960/1*YfEOtukQSNXUOBcgZjuKLg.png" alt="ridvanms" />awsome </p>
-
+<p align="left"> <img src="https://miro.medium.com/max/960/1*YfEOtukQSNXUOBcgZjuKLg.png" alt="ridvanms" /></p>
+<h1>HELLO 👋</h1>
 - 🌱 I’m currently learning **web development**
 
 - 📫 How to reach me **ridvans@abv.bg**
