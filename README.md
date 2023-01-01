@@ -3,7 +3,7 @@
 - 📫 How to reach me [✉ridvans](https://www.abv.bg/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ridvanms&theme=Khroma)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridvanmsy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridvanmsy&layout=compact)](https://github.com/ridvanms/github-readme-stats)
 <!-- - 👋 Hi, I’m @ridvanms
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
